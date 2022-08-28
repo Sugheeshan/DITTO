@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DITTO</string>
+    <string name="Input_Text">repeat_input</string>
+    <string name="hint_text_repeat_no">text to be repeated</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="repeats_text">Repeats</string>
+    <string name="total_repeats_no">total repeats</string>
+    <string name="new_line_switch">New Line</string>
+    <string name="space_switch">Space</string>
+    <string name="period_switch">Period</string>
+    <string name="clear_switch">CLEAR</string>
+    <string name="generate_btn">GENERATE</string>
+</resources>
